@@ -1,4 +1,4 @@
-# Assignment 2 — Selection Sort  Alikan Amanzholov
+# Assignment 2 — Selection Sort 
 
 ## 📌 Project Overview
 This project is part of the *Data Structures and Algorithms* course assignment.  
@@ -15,3 +15,4 @@ Structure
 	•	src/main/java — source code
 	•	src/test/java — unit tests
 	•	docs/ — CSV files containing performance measurement results
+
